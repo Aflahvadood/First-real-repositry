@@ -1,2 +1,2 @@
 # First-real-repositry
-Trying to understang how github works
+Be the change ou want to see in the world
